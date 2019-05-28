@@ -1,0 +1,13 @@
+【军事】.words.txt
+【农业】.words.txt
+【医学】.words.txt
+【数学】.words.txt
+【法律】.words.txt
+【物理】.words.txt
+【生物】.words.txt
+【电力】.words.txt
+【社会】.words.txt
+【经济】.words.txt
+【股票】.words.txt
+【心理学】.words.txt
+【计算机】.words.txt
